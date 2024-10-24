@@ -1,5 +1,5 @@
 # Introduction
-
+[![AI Code Assurance](http://localhost:9000/api/project_badges/ai_code_assurance?project=SonarSource_sonar-apex&token=sqb_b9d10dd795c1626aea24776db6f8a26621e9be3d)](http://localhost:9000/dashboard?id=SonarSource_sonar-apex)
 This repository holds NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch.
 Some of the code here will be included in upstream Pytorch eventually.
 The intent of Apex is to make up-to-date utilities available to users as quickly as possible.
